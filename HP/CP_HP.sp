@@ -30,6 +30,84 @@ VinCin      Cin	0	DC	VDD
 
 
 
+** m = 1 CP-HP
+
+** m = 2 CP-HP
+
+** m = 4 CP-HP
+* CLST1	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST2	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST3	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST4	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST5	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST6	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST7	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST8	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST9	  VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST10	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST11	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST12	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST13	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST14	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* CLST15	VDD     GND     A1    A2    A3     A4    B1    B2    B3    B4    Gn    Al  CLST4b
+* GB1	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB2	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB3	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB4	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB5	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB6	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB7	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB8	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB9	    VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB10	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB11	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB12	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB13	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB14	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* GB15	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+* BB1	  VDD     GND     Al2   Al3 	 Gn2      Gn3   Al32  Gn32  BB1b
+* BB2	  VDD     GND     Al4   Al5 	 Gn4      Gn5   Al54  Gn54  BB1b
+* BB3	  VDD     GND     Al6   Al7 	 Gn6      Gn7   Al76  Gn76  BB1b
+* BB4	  VDD     GND     Al2   Al3 	 Gn2      Gn3   Al32  Gn32  BB1b
+* BB5	  VDD     GND     Al4   Al5 	 Gn4      Gn5   Al54  Gn54  BB1b
+* BB6	  VDD     GND     Al6   Al7 	 Gn6      Gn7   Al76  Gn76  BB1b
+* BB7	  VDD     GND     Al6   Al7 	 Gn6      Gn7   Al76  Gn76  BB1b
+
+** m = 8 CP-HP
+CLST1	VDD     GND   A1    A2     A3    A4    A5    A6    A7    A8    B1    B2     B3    B4    B5    B6    B7    B8   Gn    Al   CLST8b
+CLST2	VDD     GND   A9    A10    A11   A12   A13   A14   A15   A16   B9    B10    B11   B12   B13   B14   B15   B16  Gn    Al   CLST8b
+CLST3	VDD     GND   A17   A18    A19   A20   A21   A22   A23   A24   B17   B18    B19   B20   B21   B22   B23   B24   Gn    Al   CLST8b
+CLST4	VDD     GND   A25   A26    A27   A28   A29   A30   A31   A32   B25   B26    B27   B28   B29   B30   B31   B32   Gn    Al   CLST8b
+CLST5	VDD     GND   A33   A34    A35   A36   A37   A38   A39   A40   B33   B34    B35   B36   B37   B38   B39   B40   Gn    Al   CLST8b
+CLST6	VDD     GND   A41   A42    A43   A44   A45   A46   A47   A48   B41   B42    B43   B44   B45   B46   B47   B48   Gn    Al   CLST8b
+CLST7	VDD     GND   A49   A50    A51   A52   A53   A54   A55   A56   B49   B50    B51   B52   B53   B54   B55   B56   Gn    Al   CLST8b
+GB1	  VDD     GND   Al1 	Gn1    Cin   Chp1  GB1b
+GB2	  VDD     GND   Al2 	Gn2    Chp1  Chp2  GB1b
+GB3	  VDD     GND   Al32 	Gn32   Chp1  Chp3  GB1b
+GB4	  VDD     GND   Al4 	Gn4    Chp3  Chp4  GB1b
+GB5	  VDD     GND   Al54 	Gn54   Chp3  Chp5  GB1b
+GB6	  VDD     GND   Al6 	Gn6    Chp5  Chp6  GB1b
+GB7	  VDD     GND   Al76 	Gn76   Chp5  Chp7  GB1b
+BB1	  VDD     GND     Al2   Al3 	 Gn2      Gn3   Al32  Gn32  BB1b
+BB2	  VDD     GND     Al4   Al5 	 Gn4      Gn5   Al54  Gn54  BB1b
+BB3	  VDD     GND     Al6   Al7 	 Gn6      Gn7   Al76  Gn76  BB1b
+
+** m = 16 CP-HP
+CLST1	VDD     GND    A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12 A13 A14 A15 A16 B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12 B13 B14 B15 B16 Gn1  Al1 CLST16b
+CLST2	VDD     GND    A17 A18 A19 A20 A21 A22 A23 A24 A25 A26 A27 A28 A29 A30 A31 A32 B17 B18 B19 B20 B21 B22 B23 B24 B25 B26 B27 B28 B29 B30 B31 B32 Gn2  Al2 CLST16b
+CLST3	VDD     GND    A33  A34  A35  A36  A37  A38  A39  A40  A41  A42 A43 A44 A45 A46 A47 A48 B33  B34  B35  B36  B37  B38  B39  B40  B41  B42 B43 B44 B45 B46 B47 B48 Gn3  Al3 CLST16b
+GB1	  VDD     GND   Al1 	Gn1    Cin  Chp1  GB1b
+GB2	  VDD     GND   Al2 	Gn2    Chp1  Chp2  GB1b
+GB3	  VDD     GND   Al32 	Gn32   Chp1  Chp3  GB1b
+BB1	  VDD     GND     Al2   Al3 	 Gn2      Gn3   Al32  Gn32  BB1b
+
+
+** m = 32 CP-HP (64/32 - 1 = 1 CLST block)
+CLST1	  VDD   GND  A1  A2  A3  A4  A5  A6  A7  A8  A9  A10 A11 A12 A13 A14 A15 A16 A17 A18 A19 A20 A21 A22 A23 A24 A25 A26 A27 A28 A29 A30 A31 A32 B1  B2  B3  B4  B5  B6  B7  B8  B9  B10 B11 B12 B13 B14 B15 B16 B17 B18 B19 B20 B21 B22 B23 B24 B25 B26 B27 B28 B29 B30 B31 B32  Gn1  Al1  CLST32b
+GB1	    VDD   GND   Al1 	Gn1    Cin  Chp1  GB1b
+
+** m = 64 CP-HP
+
 
 ** 2 bit CLST
 .SUBCKT CLST2b	VDD     GND     A1      A2   B1   B2   Gn  Al
